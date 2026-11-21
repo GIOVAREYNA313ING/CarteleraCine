@@ -1,0 +1,1 @@
+Server=(localdb)\MSSQLLocalDB;Database=CarteleraDB;Integrated Security=True;TrustServerCertificate=True
