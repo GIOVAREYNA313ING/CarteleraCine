@@ -76,7 +76,6 @@ namespace CarteleraCine
                                 break;
                             }
                             Funcion encontrada = repositorio.BuscarPorId(idBuscar);
-
                             if (encontrada == null)
                             {
                                 Console.WriteLine("No existe ese Id.\n");
